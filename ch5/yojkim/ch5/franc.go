@@ -15,6 +15,6 @@ func (f Franc) Times(multiplier int) *Franc {
 	return &Franc{f.amount * multiplier}
 }
 
-func (f Franc) Equal(input Dollar) bool {
+func (f Franc) Equal(input Franc) bool {
 	return f.amount == input.amount
 }
