@@ -11,7 +11,7 @@ func NewDollar(amount int) Dollar {
 	return dollar
 }
 
-func (d *Dollar) Times(multiplier int) *Dollar {
+func (d Dollar) Times(multiplier int) *Dollar {
 	return &Dollar{d.Amount * multiplier}
 }
 
