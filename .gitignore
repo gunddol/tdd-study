@@ -1,5 +1,15 @@
+### Go module ###
 go.mod
 go.sum
 
+### IntelliJ ###
 .idea/
 .idea/*
+
+### VisualStudioCode ###
+.vscode/
+.vscode/*
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
