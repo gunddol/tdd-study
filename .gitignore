@@ -5,6 +5,10 @@ go.sum
 ### IntelliJ ###
 .idea/
 .idea/*
+.out/
+.out/*
+*.iml
+
 
 ### VisualStudioCode ###
 .vscode/
