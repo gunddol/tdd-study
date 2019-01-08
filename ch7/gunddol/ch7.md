@@ -1,3 +1,3 @@
-### CH7.»ç°ú¿Í ¿À·»Áö
+## CH7.ì‚¬ê³¼ì™€ ì˜¤ë Œì§€
 
-- amount¿Í class°¡ µ¿½Ã¿¡ °°¾Æ¾ß True·Î ÀÎÁ¤
+- amountì™€ classê°€ ë™ì‹œì— ê°™ì•„ì•¼ Trueë¡œ ì¸ì •
