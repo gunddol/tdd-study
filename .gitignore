@@ -5,8 +5,8 @@ go.sum
 ### IntelliJ ###
 .idea/
 .idea/*
-.out/
-.out/*
+out/
+out/*
 *.iml
 
 
